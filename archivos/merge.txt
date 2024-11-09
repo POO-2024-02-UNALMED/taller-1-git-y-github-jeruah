@@ -1,0 +1,3 @@
+Jerónimo Rúa Herrera, 18 años, y mis aspiraciones respecto a la materia es aprender mucho sobre POO, 
+principalmente en python, ya que quiero ejercer en un futuro, como backend y mucho manejo backend,
+es basado en POO.
