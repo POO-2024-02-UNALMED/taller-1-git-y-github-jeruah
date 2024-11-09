@@ -5,3 +5,7 @@ asi que simplemente reescribio el primer commit, ahora cuando hice 3cer add, la 
 Jerónimo Rúa Herrera, 18 años, y mis aspiraciones respecto a la materia es aprender mucho sobre POO, 
 principalmente en python, ya que quiero ejercer en un futuro, como backend y mucho manejo backend,
 es basado en POO.
+
+Hay que tener cuidado al modificar los archivos desde diferentes ubicaciones por problemas de sincronizacion de los archivos, 
+por ejemplo git nos obliga a hacer merge porque es peligroso que sobreescribamos archivos, y podamos dañar
+un sistema.
