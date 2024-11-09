@@ -1,3 +1,7 @@
+No entendi muy bien la pregunta, basicamente yo uso git desde consola, pero si noto un "cambio" de respecto a lo que hice y lo que aparece en github como commits, 
+basicamente yo realicé 3 commits, pero solo se ven reflejados 2, ya que en el commit de la carpeta no encontro nada nuevo que haya sido agregado,
+asi que simplemente reescribio el primer commit, ahora cuando hice 3cer add, la cosa cambio, encontro y añadio un cambio y el commit se ve reflejado creando "archivos/respuesta.txt".
+
 Jerónimo Rúa Herrera, 18 años, y mis aspiraciones respecto a la materia es aprender mucho sobre POO, 
 principalmente en python, ya que quiero ejercer en un futuro, como backend y mucho manejo backend,
 es basado en POO.
